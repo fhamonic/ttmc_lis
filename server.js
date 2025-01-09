@@ -37,7 +37,7 @@ app.get('/pick-question/:category', (req, res) => {
     if (card_id === null) {
         res.status(404).send('No more cards of this category!');
     } else {
-        res.redirect('choose-question-level/' + card_id);
+        res.redirect('../choose-question-level/' + card_id);
     }
 });
 
