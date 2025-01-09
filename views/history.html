@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8">
   <title>TTMC en LIS : Historique des questions</title>
-  <link rel="stylesheet" href="{{base_uri}}/css/style.css">
+  <link rel="stylesheet" href="css/style.css">
 </head>
 
 <body>
@@ -13,7 +13,7 @@
   <ol start="0">
     {{#history}}
     <li>
-      {{#card}}<a href="/card/{{id}}">{{theme}}
+      {{#card}}<a href="card/{{id}}">{{theme}}
         {{#theme_en}}<i>({{.}})</i>{{/theme_en}}</a>
       {{/card}}
       Niveau {{level}}
