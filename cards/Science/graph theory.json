@@ -1,0 +1,24 @@
+{
+    "theme": "Théorie des graphes",
+    "theme_en": "Graph theory",
+    "questions": [
+        "Qu'est-ce qui n'est pas relié aux graphes : un arbre, une feuille, une écorce ?",
+        "Quel est le graphe le graphe mineur interdit des arbres ?",
+        "Combien de sommets possède le graphe de Peterson ?"
+    ],
+    "questions_en": [
+        "What is not related to graphs: a tree, a leaf, a bark?",
+        "What is the forbidden minor graph of trees?",
+        "How many vertices does the Peterson graph have?"
+    ],
+    "answers": [
+        "Une écorce.",
+        "K3",
+        "10"
+    ],
+    "answers_en": [
+        "A bark.",
+        "K3",
+        "10"
+    ]
+}

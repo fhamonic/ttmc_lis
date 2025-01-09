@@ -1,0 +1,24 @@
+{
+    "theme": "Grammaire",
+    "theme_en": "Grammar",
+    "questions": [
+        "Qu'est-ce qu'un verbe ?",
+        "Quest-ce que la voix passive, une forme verbale qui exprime : une action dirigée vers le sujet, une action subie par le sujet, une action répétée ?",
+        "Qu'est-ce que le mode conditionnel ?"
+    ],
+    "questions_en": [
+        "What is a verb?",
+        "What is the passive voice, a verb form that expresses : an action directed toward the subject, an action experienced by the subject, a repeated action?",
+        "What is the conditional mode?"
+    ],
+    "answers": [
+        "Un mot qui exprime une action.",
+        "Une action subie par le sujet.",
+        "Une forme verbale qui exprime une action possible, souhaitable ou hypothétique."
+    ],
+    "answers_en": [
+        "A word that expresses an action or state.",
+        "A verb form that expresses an action experienced by the subject.",
+        "A verbal form that expresses a possible, desirable or hypothetical action."
+    ]
+}

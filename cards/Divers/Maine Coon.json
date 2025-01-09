@@ -1,0 +1,23 @@
+{
+    "theme": "Maine Coon",
+    "questions": [
+        "Est-ce une race de hamster, chien ou chat ?",
+        "D’où vient le 'Coon' de Maine Coon : Cocoon, Racoon ou Tycoon ?",
+        "D'où vient cette race de chat ?"
+    ],
+    "questions_en": [
+        "Is it a hamster, dog or cat breed?",
+        "Where does the 'Coon' in Maine Coon come from: Cocoon, Racoon or Tycoon?",
+        "Where does this breed of cat come from?"
+    ],
+    "answers": [
+        "Chat.",
+        "Racoon. (raton laveur)",
+        "Maine, USA."
+    ],
+    "answers_en": [
+        "Cat.",
+        "",
+        ""
+    ]
+}

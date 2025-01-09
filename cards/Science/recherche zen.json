@@ -1,0 +1,24 @@
+{
+  "theme": "Recherche zen",
+  "theme_en": "Zen research",
+  "questions": [
+    "Qu'est-ce que la recherche zen : une formation ADUM par Carlos RAMISCH et Manon SCHOLIVET ou une secte à la gloire des poulpes ?",
+    "Quand a eu lieu cette formation ? (mois et année)",
+    "Donner le nom d'un des six chapitres du cours."
+  ],
+  "questions_en": [
+    "What is zen research: an ADUM course given by Carlos RAMISCH and Manon SCHOLIVET or a sect to the glory of octopuses?",
+    "When did this course take place? (month(s) and year)",
+    "Name one of the six chapters of the course."
+  ],
+  "answers": [
+    "Une formation ADUM dispensée par Carlos RAMISCH et Manon SCHOLIVET.",
+    "Mars et Avril 2023.",
+    "{Questions et hypothèses de recherche, Contextualisation et bibliographie, Expériences, Analyses, Communication, Pratiques éthiques}"
+  ],
+  "answers_en": [
+    "An ADUM training given by Carlos RAMISCH and Manon SCHOLIVET.",
+    "March and April 2023.",
+    ""
+  ]
+}

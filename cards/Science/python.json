@@ -1,0 +1,23 @@
+{
+    "theme": "Python",
+    "questions": [
+      "Python est-il : un langage de programmation, un serpent ou les deux ?",
+      "Ce langage est nommé d'après : un serpent, d'un volcan ou du groupe d'acteurs Monty Python ?",
+      "Qui est à l'origine du langage Python ?"
+    ],
+    "questions_en": [
+      "Is Python : a programming language, a snake, or both?",
+      "The language is named after: a snake, a volcano or the group of actors Monty Python?",
+      "Who is the creator of the Python language?"
+    ],
+    "answers": [
+      "Les deux.",
+      "Les Monty Python.",
+      "Guido van Rossum."
+    ],
+    "answers_en": [
+      "Both.",
+      "Monty Python.",
+      "Guido van Rossum."
+    ]
+  }

@@ -1,0 +1,24 @@
+{
+  "theme": "Clef USB",
+  "theme_en": "USB key",
+    "questions": [
+      "Comment appelle-ton une clef USB en forme de canard ? Une Coin-coin key, une clef-canard ou une clef USB ?",
+      "Quelle est la capacité de stockage maximum d'une clef USB ? 1 GB, 256 GB, 1 TB",
+      "Quelle commande utilise-t-on pour formater une clef USB depuis un ordinateur sous Linux ?"
+    ],
+    "questions_en": [
+      "What is a USB key in the shape of a duck called? A Coin-Coin key, a Canard key, or a USB key?",
+      "What is the maximum storage capacity of a standard USB key? 1 GB, 256 GB, 1 TB",
+      "How do you format a USB key on a Linux computer?"
+    ],
+    "answers": [
+      "Une clef USB.",
+      "256 Go.",
+      "La commande 'mkfs' suivi du nom de la clef à formater."
+    ],
+    "answers_en": [
+      "A USB key.",
+      "",
+      "The command 'mkfs' followed by the name of the key to format."
+    ]
+  }

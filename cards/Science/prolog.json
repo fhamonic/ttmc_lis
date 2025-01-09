@@ -1,0 +1,23 @@
+{
+    "theme": "Prolog",
+    "questions": [
+        "Qu'est-ce Prolog : un langage de programmation logique ou un logiciel d'authentification ?",
+        "Où et quand le Prolog a-t-il été crée ? (+/- 2 ans)",
+        "Quelle est le symbole de la conjonction en Prolog : ',' ou ';' ?"
+    ],
+    "questions_en": [
+        "What is Prolog: a logic programming language or an authentication software?",
+        "Where and when was Prolog created ? (+/- 2 years)",
+        "What is the symbol of the conjunction in Prolog: ',' or ';'?"
+    ],
+    "answers": [
+        "Un langage de programmation.",
+        "Luminy, 1972.",
+        "','."
+    ],
+    "answers_en": [
+        "A logic programming language.",
+        "Luminy, 1972.",
+        "','."
+    ]
+}

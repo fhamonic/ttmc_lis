@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="utf-8">
+    <title>TTMC en LIS : Carte n°{{id}}</title>
+    
+  <link rel="stylesheet" href="/css/style.css">
+  </head>
+
+  <body>
+    {{#card}}<h1>{{theme}}</h1>
+    {{#theme_en}}<h2><i>({{.}})</i></h2>{{/theme_en}}
+    {{/card}}
+
+    <h3>{{question}}</h3>
+    {{#question_en}}<h4><i>{{.}}</i></h4>{{/question_en}}
+
+    <br>
+    <button onClick="document.getElementById('answer').style['display'] = ''"><h3>Voir réponse <i>(Show answer)</i></h3></button>
+    <br>
+
+    <div id="answer" style="display:none">
+    <h3>{{answer}}</h3>
+    {{#answer_en}}<h4><i>{{.}}</i></h4>{{/answer_en}}
+    </div>
+  </body>
+</html>

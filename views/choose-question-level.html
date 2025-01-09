@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+  <meta charset="utf-8">
+  <title>TTMC en JSL : Choix du sujet</title>
+  <link rel="stylesheet" href="/css/style.css">
+</head>
+
+<body>
+  {{#card}}
+  <h1>{{theme}}</h1>
+  {{#theme_en}}<h2><i>({{.}})</i></h2>{{/theme_en}}
+  {{/card}}
+
+  {{#levels}}
+  <a href="/card/{{card_id}}?level={{level_id}}">{{level_id}}</a>
+  {{/levels}}
+</body>
+
+</html>

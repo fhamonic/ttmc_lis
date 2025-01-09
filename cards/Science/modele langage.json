@@ -1,0 +1,24 @@
+{
+  "theme": "Modèles de langage",
+  "theme_en": "Language Models",
+  "questions": [
+    "Dans un modèle de langue française, la probabilité de la séquence 'tous les matins je bois du café' est plus élevée que celle de la séquence 'du café je tous les matins bois'. Vrai ou faux ?",
+    "Sur quels processus aléatoires reposent les premiers modèles linguistiques ?",
+    "Comment appelle-t-on un modèle qui utilise non seulement l'historique mais aussi les mots suivants comme contexte lors du traitement d'un mot ?"
+  ],
+  "questions_en": [
+    "In a French language model, the probability of the sequence \"tous les matins je bois du café\" is higher than the probability of the sequence \"du café je tous les matins bois\". True or false?",
+    "What random processes are the early language models based on?",
+    "What is a model called that uses not only the history but also the following words as context when processing a word?"
+  ],
+  "answers": [
+    "Vrai.",
+    "Les chaînes de Markov.",
+    "Un modèle bidirectionnel."
+  ],
+  "answers_en": [
+    "True.",
+    "Markov chains.",
+    "A bidirectional model."
+  ]
+}

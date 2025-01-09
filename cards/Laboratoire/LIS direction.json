@@ -1,0 +1,24 @@
+{
+    "theme": "Organigramme du LIS",
+    "theme_en": "LIS organization",
+    "questions": [
+        "Y a-t-il une organisation au LIS ?",
+        "Qui est le directeur du LIS ?",
+        "Qui est le directeur adjoint du LIS ?"
+    ],
+    "questions_en": [
+        "Is there an organization at LIS?",
+        "Who is the director of LIS?",
+        "Who is the deputy director of LIS?"
+    ],
+    "answers": [
+        "Oui.",
+        "Fréderic BECHET.",
+        "Eric BUSCVELLE."
+    ],
+    "answers_en": [
+        "Yes.",
+        "",
+        ""
+    ]
+}

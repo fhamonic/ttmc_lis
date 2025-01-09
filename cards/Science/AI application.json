@@ -1,0 +1,24 @@
+{
+  "theme": "Les applications de l'IA dans la vie quotidienne",
+  "theme_en": "AI applications in everyday life",
+  "questions": [
+    "Quel est un exemple d'application de l'IA dans la vie quotidienne : voitures autonomes, poupées Barbie connectées, robots de cuisine ?",
+    "Quelle est la principale source de biais dans l'IA ?",
+    "Quelle est l'entreprise qui détient le plus grand nombre de brevets dans le domaine de l'apprentissage automatique et de l'IA ?"
+  ],
+  "questions_en": [
+    "What is an example of an application of AI in everyday life? a) Autonomous cars b) Connected Barbie dolls c) Kitchen robots",
+    "What is the main source of bias in AI?",
+    "Which company is the leading patent holder in machine learning and AI?"
+  ],
+  "answers": [
+    "Voitures autonomes.",
+    "L'humain et les données.",
+    "Tencent Holdings Ltd."
+  ],
+  "answers_en": [
+    "Autonomous cars",
+    "Human and data.",
+    "Tencent Holdings Ltd."
+  ]
+}

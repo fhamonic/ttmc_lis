@@ -1,0 +1,23 @@
+{
+    "theme": "Paul Erdos",
+    "questions": [
+        "Était-ce un mathématicien ou un acteur hollywoodien ?",
+        "Combien de mathématiciens sont co-auteurs directs de Paul Erdos ? (+/- 50)",
+        "Combien de personnes inscrites pour aujourd’hui (lundi 22/05) ont un nombre d’Erdos inférieur ou égal à 2 ?"
+    ],
+    "questions_en": [
+        "Was he a mathematician or an hollywood actor ?",
+        "How many mathematicians are direct co-authors of Paul Erdos? (+/- 50)",
+        "Combien de personnes inscrites pour aujourd’hui (lundi 22/05) ont un nombre d’Erdos inférieur ou égal à 2 ?"
+    ],
+    "answers": [
+        "Un mathématicien.",
+        "511.",
+        "1. (Alessia Milani avec 2, il y a également Victor Chepoi, Basile Couëtoux)"
+    ],
+    "answers_en": [
+        "A mathematician.",
+        "",
+        "1. (Alessia Milani avec 2, il y a également Victor Chepoi, Basile Couëtoux)"
+    ]
+}

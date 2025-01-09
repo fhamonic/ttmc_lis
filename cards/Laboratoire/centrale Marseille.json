@@ -1,0 +1,23 @@
+{
+    "theme": "Centrale",
+    "questions": [
+        "Qu'est-ce que Centrale : une école d'ingénieur, un type de pizza ?",
+        "Donnez le nom de l'équipe qui officie à Centrale.",
+        "Quel est le titre du dernier séminaire avec l'équipe I2M ?"
+    ],
+    "questions_en": [
+        "What is Centrale: An engineering school or a type of Pizza ?",
+        "Give the name of a team of the LIS with offices at Centrale.",
+        "What was the title of the last seminar with the I2M team ?"
+    ],
+    "answers": [
+        "Un école d'ingénieur.",
+        "QARMA.",
+        "??"
+    ],
+    "answers_en": [
+        "An engineering school.",
+        "",
+        ""
+    ]
+}

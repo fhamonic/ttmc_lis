@@ -1,0 +1,24 @@
+{
+    "theme": "Doctorants",
+    "theme_en": "PhD students",
+    "questions": [
+        "Donner le nom d’un doctorant présent à la journée.",
+        "Quand s’est déroulée la journée des doctorants du LIS cette année, le mois suffira ? (mois)",
+        "Combien y’avait t’il d’offre de thèse sur https://www.lis-lab.fr/offre-de-these/ le 10 mai 2023 à 9h00 ?"
+    ],
+    "questions_en": [
+        "Give the name of a PhD student present at the day.",
+        "When was the LIS PhDays this year? (month)",
+        "How many dissertation offers were there on https://www.lis-lab.fr/offre-de-these/ on May 10, 2023 at 9:00 am?"
+    ],
+    "answers": [
+        "Variable",
+        "Le mercredi 22 Mars 2023.",
+        "12"
+    ],
+    "answers_en": [
+        "",
+        "Wednesday, March 22, 2023.",
+        ""
+    ]
+}

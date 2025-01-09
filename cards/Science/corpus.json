@@ -1,0 +1,23 @@
+{
+    "theme": "Corpus",
+    "questions": [
+      "Qu'appelle-t-on un corpus contenant plus d'une modalité ?",
+      "Quelles sont les difficultés rencontrées lors de l'entraînement d'un modèle de génération d'images sur des langues ou des tâches peu courantes ?",
+      "Sur combien de sites web Llama a-t-il été entraîné ?"
+    ],
+    "questions_en": [
+      "What is a corpus containing more than one modality called?",
+      "What difficulty can we encounter when training an image generation model on uncommon languages or tasks?",
+      "On how many websites was Llama trained?"
+    ],
+    "answers": [
+      "Un corpus multimodal.",
+      "Données sales, données insuffisantes, ...",
+      "15 millions de sites web."
+    ],
+    "answers_en": [
+      "A multimodal corpus.",
+      "Dirty data, insufficient data, ...",
+      "15 million websites."
+    ]
+  }

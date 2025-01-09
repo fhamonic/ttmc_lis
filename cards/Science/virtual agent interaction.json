@@ -1,0 +1,24 @@
+{
+  "theme": "Intératction Humain-Agent virtuel",
+  "theme_en": " Human-Virtual Agent Interactions",
+    "questions": [
+      "Est ce que les stéréotypes de genres persistent quand un humain s'adresse à un agent virtuel ?",
+      "Comment s'appelle la théorie selon laquelle interagir avec un agent virtuel dont le comportement est à la limite du réalisme provoque de l'inconfort ?",
+      "Les gens ont tendance à interagir avec les agents virtuels comme si ils s'agissait d'humains. Mais ils ont aussi tendance à les insulter, les menacer ou à faire des commentaires sexuels inapropriés. Comment s'appelle ce phénomène ?"
+    ],
+    "questions_en": [
+      "Do gender stereotypes persist in Human-Virtual Agent Interactions?",
+      "What is the name of the theory explaining individuals are uncomfortable when interacting with virtual agents whose behaviors do not match their degree of physical realism?",
+      "People tend to interact with virtual agents as if they were humans. But they also tend to insult them, threaten them, or make inappropriate sexual comments. What is this phenomenon's name?"
+    ],
+    "answers": [
+      "Oui, les agents 'mâles' sont généralement perçus comme plus compétents/informés/intélligents que les agents 'féminins'. Les agents 'féminins' sont perçu comme plus attractifs et aimables que les agents masculins. (quand bien même ils auraient exactement les mêmes comportements et les mêmes textes)",
+      "Uncanny valley.",
+      "L'effet de désinhibition. Certains articles parlent \"d'abus virtuels\"'."
+    ],
+    "answers_en": [
+      "Yes, 'male' agents are generally perceived as more competent/informed/intelligent than 'female' agents. Female agents are perceived as more attractive and likeable than male agents (even though they may have exactly the same behaviors and texts)",
+      "",
+      "The disinhibition effect. Some articles talk about 'virtual abuse'."
+    ]
+}

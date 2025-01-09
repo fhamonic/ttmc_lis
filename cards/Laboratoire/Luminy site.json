@@ -1,0 +1,23 @@
+{
+    "theme": "Luminy",
+    "questions": [
+        "Qu'est-il plus probable de trouver à luminy : un sanglier ou une station de métro ?",
+        "À quel(s) étage(s) est situé le LIS ?",
+        "Combien de marches faut-il gravir pour aller du rez-de-chaussée au 4ème étage du TPR2 ?"
+    ],
+    "questions_en": [
+        "What is more likely to be found in luminy: a boar or a subway station?",
+        "What floor(s) is LIS located on?",
+        "How many steps do you have to climb to get from the first floor to the fourth floor of TPR2?"
+    ],
+    "answers": [
+        "Un sanglier.",
+        "Au 4ème et 5ème.",
+        "(On sait pas lol.)"
+    ],
+    "answers_en": [
+        "Un sanglier.",
+        "The 4th and 5th.",
+        ""
+    ]
+}

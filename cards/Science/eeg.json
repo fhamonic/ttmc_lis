@@ -1,0 +1,23 @@
+{
+    "theme": "EEG",
+    "questions": [
+        "Que signifie EEG : Électroencéphalogramme, Éclat électrique gris, Évaluation électrique des gyrus ?",
+        "Comparé à un IRM, un EEG a-t-il une meilleur : precision spatiale ? precision temporelle ? les deux ?",
+        "Sur quel principe physique l'EEG est-il basé ?"
+    ],
+    "questions_en": [
+        "What does EEG mean : Électroecephalogramme, Everything Everywhere is Gray, Electrical Évaluation of Gray Matter",
+        "Compared to MRIs, do EEGs have a better spatial sensibility? Temporal sensibility ?",
+        "On which physical phenomenon is EEG based ?"
+    ],
+    "answers": [
+        "Électroencephalogramme.",
+        "Precision temporelle.",
+        "Électro Encephalo Gramme"
+    ],
+    "answers_en": [
+        "Electroencephalogramme.",
+        "Temporal sensibility.",
+        "Électro Encephalo Gramme"
+    ]
+}

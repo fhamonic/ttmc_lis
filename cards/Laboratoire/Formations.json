@@ -1,0 +1,23 @@
+{
+    "theme": "Formations",
+    "questions": [
+        "Y’a t’il plus de personnel de LIS qui enseigne : au centre MFC Beauty, au CFA hôtelier de Marseille ou au master informatique de AMU ?",
+        "Cite deux des trois écoles d’ingénieur dans lesquelles est impliqué le LIS.",
+        "Que signifie le sigle MIAGE ?"
+    ],
+    "questions_en": [
+        "Are there more LIS staff teaching: at the MFC Beauty center, at the Marseille hotel CFA or at the AMU master in computer science?",
+        "Name two of the three engineering schools in which LIS is involved.",
+        "What does the acronym MIAGE mean?"
+    ],
+    "answers": [
+        "Au master informatique de AMU.",
+        "École centrale Marseille, Polytech Marseille, SeaTech Toulon.",
+        "Méthodes Informatiques Appliquées à la Gestion des entreprises. C’est un master de AMU."
+    ],
+    "answers_en": [
+        "In the master of computer science of AMU.",
+        "École centrale Marseille, Polytech Marseille, SeaTech Toulon.",
+        "(Computer methods applied to business management)"
+    ]
+}

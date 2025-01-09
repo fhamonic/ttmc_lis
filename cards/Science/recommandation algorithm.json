@@ -1,0 +1,24 @@
+{
+  "theme": "Algorithmes de recommandation",
+  "theme_en": "Recommendation algorithms",
+  "questions": [
+    "Quel est l'objectif des algorithmes de recommandations : identifier des couleurs, proposer des suggestions personnalisées ou trouver des adresses de restaurants ?",
+    "Une des principale techniques utilisée par lar les algorithmes de recommandation est : la régression logistique, la réduction de la dimensionnalité ou la factorisation de matrice ?",
+    "Comment évalue-t-on l'efficacité des algorithmes de recommandation ?"
+  ],
+  "questions_en": [
+    "What is the purpose of recommendation algorithms? Identify colors, offer personalized suggestions or find restaurant addresses?",
+    "What is one of the main techniques used by recommender algorithms? Logistic regression, dimensionality reduction or matrix factorization.",
+    "How do you evaluate the effectiveness of a recommendation algorithm?"
+  ],
+  "answers": [
+    "Proposer des suggestions personnalisées.",
+    "La factorisation de matrice.",
+    "Precision, rappel et score F1."
+  ],
+  "answers_en": [
+    "Offer personalized suggestions.",
+    "Matrix factorization.",
+    "Precision, recall and F1-score."
+  ]
+}

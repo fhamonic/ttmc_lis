@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+  <meta charset="utf-8">
+  <title>TTMC en JSL : Choix du sujet</title>
+  <link rel="stylesheet" href="/css/style.css">
+</head>
+
+<body>
+  <h1>Choix du sujet</h1>
+  <h2><i>Choice of topic<i></h2>
+
+  {{#categories}}
+  <form action="/pick-question/{{.}}" method="get">
+    <input type="submit" value="{{.}}">
+  </form>
+  {{/categories}}
+</body>
+
+</html>

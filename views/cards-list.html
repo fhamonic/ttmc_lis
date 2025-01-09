@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+  <meta charset="utf-8">
+  <title>TTMC en LIS : Liste des cartes</title>
+  <link rel="stylesheet" href="/css/style.css">
+</head>
+
+<body>
+  <h1>Liste des cartes</h1>
+
+  <ol start="0">
+    {{#cards}}
+    <li>
+      <a href="/card/{{id}}">{{theme}}
+        {{#theme_en}}<i>({{.}})</i>{{/theme_en}}</a>
+    </li>
+    {{/cards}}
+  </ol>
+
+</body>
+
+</html>

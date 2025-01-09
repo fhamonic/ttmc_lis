@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+  <meta charset="utf-8">
+  <title>TTMC en LIS : Historique des questions</title>
+  <link rel="stylesheet" href="/css/style.css">
+</head>
+
+<body>
+  <h1>Historique des questions</h1>
+
+  <ol start="0">
+    {{#history}}
+    <li>
+      {{#card}}<a href="/card/{{id}}">{{theme}}
+        {{#theme_en}}<i>({{.}})</i>{{/theme_en}}</a>
+      {{/card}}
+      Niveau {{level}}
+    </li>
+    {{/history}}
+  </ol>
+
+</body>
+
+</html>

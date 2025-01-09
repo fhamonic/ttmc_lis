@@ -1,0 +1,26 @@
+{
+    "theme": "Techniques en IA",
+    "theme_en": "AI techniques",
+    "questions": [
+        "Qu'est ce que l'apprentissage automatique : un type d'algorithme de tri, une technique de programmation ou une méthode pour apprendre depuis des données ?",
+        "Quelle est la différence entre apprentissages supervisés et non supervisés ?",
+        "Quels sont les avantages et désavantages des réseaux de neurones profonds en apprentissage profond? Citer l'avantage principal et deux désavantages"
+    ],
+    "questions_en": [
+        "What is machine learning? A) A type of search algorithm B) A programming technique C) A method for learning from data",
+        "What is the difference between supervised and unsupervised learning? A) Supervised learning requires labels for the training data, while unsupervised learning does not. B) Supervised learning does not use training data, while unsupervised learning does. C) There is no difference between supervised and unsupervised learning.",
+        "What are the advantages and disadvantages of deep neural networks in deep learning? We want the major advantage and two disadvantages (among our list of 3, you have 3 tries)"
+    ],
+    "answers": [
+        "Une méthode pour apprendre depuis des données.",
+        "L'apprentissage supervisé demande des données préalablement labélisées alors que l'aprentissage non supervisé n'en a pas besoin.",
+        "Advantages : Apprendre des représentations avec un haut niveau d'abstraction depuis des données d'entrée complexes",
+        "Désavantages : L'entrainement est souvent couteux en temps et en ressources informatique. Sensibilité à l'overfitting (tendance à prédire uniquement les données d'entrée). L'opacité et la difficulté à expliquer les décisions faites par ces réseaux."
+    ],
+    "answers_en": [
+        "A method for learning from data.",
+        "Supervised learning requires previously labeled data while unsupervised learning does not.",
+        "Advantages: Learning representations with a high level of abstraction from complex input data.",
+        "Disadvantages: Training is often expensive in time and computer resources. Sensitivity to overfitting (tendency to predict only the input data). Opacity and difficulty in explaining the decisions made by these networks."
+    ]
+}

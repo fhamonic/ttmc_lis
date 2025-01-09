@@ -1,0 +1,23 @@
+{
+    "theme": "Chatbot",
+    "questions": [
+        "Qu'est-ce qu'un chatbot : un robot chat, un agent virtuel qui peut communiquer avec les utilisateurs, un tchat qui parle ?",
+        "Comment s'appelle l'assistant virtuel d'Apple ?",
+        "Quelle est l'origine de Furhat, la tête parlante qui dirigera le LIS ?"
+    ],
+    "questions_en": [
+        "What is a chatbot : A cat robot, a virtual agent that can communicate with users, a chat that talks?",
+        "What is Apple's virtual assistant called?",
+        "What is the origin of Furhat, the talking head that will run the LIS?"
+    ],
+    "answers": [
+        "Un agent virtuel qui peut communiquer avec l'utilisateur.",
+        "Siri.",
+        "Suédois."
+    ],
+    "answers_en": [
+        "A virtual agent that can communicate with user.",
+        "Siri.",
+        "Swedish."
+    ]
+}

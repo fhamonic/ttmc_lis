@@ -1,0 +1,24 @@
+{
+  "theme": "IRM",
+  "theme_en": "MRI",
+    "questions": [
+      "Que signifie IRM : Imagerie à Résonnance Magnétique, Imagerie par Rayons Miraculeux ?",
+      "Donnez trois types différencts d'IRM.",
+      "Comment s'appelle le système qui mesure l'activité cérébrale à l'aide d'un scanner IRMf (imagerie par résonance magnétique fonctionnelle) et qui peut générer du texte à partir de la seule activité cérébrale."
+    ],
+    "questions_en": [
+      "What does MRI mean ? Magnetic Resonance Imagery, Miraculous Ray Imagery,",
+      "Gives at least 3 different types of MRI?",
+      "How is called the system which measures brain activity with an fMRI (functional magnetic resonance imaging) scanner, and can generate text from brain activity alone."
+    ],
+    "answers": [
+      "Imagerie à Résonnance Magnétique.",
+      "{Functional MRI (fMRI), Breast scans, Magnetic resonance angiography (MRA), Magnetic resonance venography (MRV), Cardiac MRI}",
+      "Un décodeur sémantique."
+    ],
+    "answers_en": [
+      "Magnetic Resonance Imagery.",
+      "{Functional MRI (fMRI), Breast scans, Magnetic resonance angiography (MRA), Magnetic resonance venography (MRV), Cardiac MRI}",
+      "A semantic decoder."
+    ]
+  }

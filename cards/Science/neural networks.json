@@ -1,0 +1,24 @@
+{
+    "theme": "Réseaux de neurones",
+    "theme_en": "Neural network",
+    "questions": [
+        "Dans un réseau neuronal, quel est l'élément de base qui traite l'information : Les neurones, les synapses ou les dendrites ?",
+        "Citez deux des trois fonctions d'activation les plus couramment utilisées dans les réseaux neuronaux.",
+        "Qu'est-ce que la rétropropagation d'erreur ?"
+    ],
+    "questions_en": [
+        "In a neural network, what is the basic element that processes information? Neurons, synapses or dendrites.",
+        "Name two of the three most commonly used activation functions in neural networks?",
+        "What is error backpropagation?"
+    ],
+    "answers": [
+        "Les neurones.",
+        "Sigmoide, Tanh et ReLU.",
+        "Un algorithme utilisé pour entrainer un réseau de neuronnes en ajustant le poids des connexions pour minimiser l'erreur entre la sortie produite et celle attendue."
+    ],
+    "answers_en": [
+        "The neurons.",
+        "Sigmoid, Tanh and ReLU.",
+        "An algorithm used to train a neural network by adjusting the weight of the connections to minimize the error between the output produced and the expected one."
+    ]
+}

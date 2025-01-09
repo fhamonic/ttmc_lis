@@ -1,0 +1,24 @@
+{
+    "theme": "Imprimante 3D",
+    "theme_en": "3D printer",
+    "questions": [
+        "Une Imprimante 3D imprime-t-elle des origamis en papier ou du plastique ?",
+        "Quel objet commun au laboratoire a été le plus imprimmé récemment : une machine à café, un cale porte ou des petites voitures ?",
+        "Quel plastique est utilisé par l'imprimante 3D des dotorants ?"
+    ],
+    "questions_en": [
+        "Does a 3D printer print paper or plastic origami?",
+        "What common object in the lab has been printed the most recently: a coffee machine, a door wedge or small cars?",
+        "What plastic is used by the dotorant 3D printer?"
+    ],
+    "answers": [
+        "Du plastique.",
+        "Un cale porte.",
+        "Du PLA."
+    ],
+    "answers_en": [
+        "Plastic.",
+        "A door wedge.",
+        "PLA."
+    ]
+}

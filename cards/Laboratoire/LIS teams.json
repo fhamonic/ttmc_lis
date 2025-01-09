@@ -1,0 +1,24 @@
+{
+    "theme": "Les équipes du LIS",
+    "theme_en": "LIS teams",
+    "questions": [
+        "Combien y a t’il d’équipes au LIS : 10, 20 ou 40 ?",
+        "De quel pôle fait partie l’équipe Analyse et classification ? Le pôle calcul, le pôle science des données, le pôle signal et image ou le pôle analyse et contrôle des systèmes ?",
+        "Cite trois équipes du pôle calcul."
+    ],
+    "questions_en": [
+        "How many teams are there at LIS: 10, 20 or 40?",
+        "To which pole does the Analysis and Classification team belong? The computational pole, the data science pole, the signal and image pole or the systems analysis and control pole?",
+        "Name three teams in the computational pole."
+    ],
+    "answers": [
+        "20",
+        "Le pôle signal et image.",
+        "{ACRO, CANA, COALA, DALGO, GMOD, LIRICA, MOFED, MOVE}"
+    ],
+    "answers_en": [
+        "",
+        "The signal and image pole.",
+        ""
+    ]
+}

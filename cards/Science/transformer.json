@@ -1,0 +1,23 @@
+{
+    "theme": "Transformers",
+    "questions": [
+      "Quelles sont les deux partie d'un 'Transformer'",
+      "Dans l’architecture de BERT, une seule partie du 'Transformer' est utilisée, l'encodeur ou le décodeur ?",
+      "Quel est l'autre nom d'un 'Transformer' en français ?"
+    ],
+    "questions_en": [
+      "What are the two parts of a transformer?",
+      "In the BERT architecture, only one part of the transformer is used, the encoder or the decoder?",
+      "What is the other name for transformers in French?"
+    ],
+    "answers": [
+      "L'encodeur et le décodeur.",
+      "L'encodeur.",
+      "Modèle auto-attentif."
+    ],
+    "answers_en": [
+      "The encoder and the decoder.",
+      "The encoder.",
+      "Self-attentive model."
+    ]
+  }

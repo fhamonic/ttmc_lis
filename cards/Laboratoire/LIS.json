@@ -1,0 +1,18 @@
+{
+    "theme": "LIS",
+    "questions": [
+        "Que signifie LIS ?",
+        "Combien le LIS a-t-il de pôle ?",
+        "Cite les 4 pôles du LIS."
+    ],
+    "questions_en": [
+        "What does LIS stand for?",
+        "How many poles does LIS have?",
+        "Name the four poles of LIS."
+    ],
+    "answers": [
+        "Laboratoire d’Informatique et Systèmes",
+        "4",
+        "Calcul, Science des données, Analyse et contrôle des systèmes, signal et image."
+    ]
+}

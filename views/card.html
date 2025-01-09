@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="utf-8">
+    <title>TTMC en LIS : Carte n°{{id}}</title>
+    
+  <link rel="stylesheet" href="/css/style.css">
+  </head>
+
+  <body>
+    <h1>{{theme}}</h1>
+    {{#theme_en}}<h2><i>({{.}})</i></h2>{{/theme_en}}
+
+    {{#questions}}
+    <h3>{{.}}</h3>
+    {{/questions}}
+
+    {{#questions_en}}
+    <h4>{{.}}</h4>
+    {{/questions_en}}
+
+    {{#answers}}
+    <h3>{{.}}</h3>
+    {{/answers}}
+
+    {{#answers_en}}
+    <h4>{{.}}</h4>
+    {{/answers_en}}   
+  </body>
+</html>

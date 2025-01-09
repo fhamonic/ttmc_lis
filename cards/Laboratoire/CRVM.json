@@ -1,0 +1,23 @@
+{
+    "theme": "CRVM",
+    "questions": [
+        "Le CRVM est consacré à : l'étude des goélands en plusieurs dimensions, à l’étude du comportement humain en situation immersive ou au test de plusieurs marques de casque de réalité virtuelle ?",
+        "Que signifie CRVM ?",
+        "De quel institut fait partie le CRVM ?"
+    ],
+    "questions_en": [
+        "The CRVM is dedicated to: the study of gulls in several dimensions, the study of human behavior in immersive situations or the testing of several brands of virtual reality headsets?",
+        "What does CRVM mean?",
+        "Which institute does the CRVM belong to?"
+    ],
+    "answers": [
+        "L’étude du comportement humain en situation immersive.",
+        "Centre de Réalité Virtuelle de la Méditerranée.",
+        "ISM. (institut des sciences du mouvement)"
+    ],
+    "answers_en": [
+        "The study of human behavior in immersive situations.",
+        "(Virtual Reality Center of the Mediterranean.)",
+        "(institute of movement sciences)."
+    ]
+}

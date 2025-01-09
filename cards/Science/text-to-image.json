@@ -1,0 +1,24 @@
+{
+    "theme": "Modèle texte-to-image",
+    "theme_en": "Text-to-image model",
+    "questions": [
+        "Qu'est-ce qu'un modèle text-to-image ?",
+        "Parmi les modèles d'apprentissages suivants, lequel n'est pas un modèle text-to-image ? DALL-E, Midjourney, Llama",
+        "Comment fonctionne les modèles de diffusion en Vision par Ordinateur ?"
+    ],
+    "questions_en": [
+        "What is a text-to image model ?",
+        "Which one of these is not a text-to image model ? DALL-E, Midjourney, Llama",
+        "How do diffusion models work in computer vision ?"
+    ],
+    "answers": [
+        "Un système d'apprentissage automatique.",
+        "Llama.",
+        "Un réseau de neurones est entrainé à débruiter une image floutée par un bruit Gaussien en apprenant à inverser le processus de diffusion."
+    ],
+    "answers_en": [
+        "A machine learning system.",
+        "",
+        "A neural network is trained to denoise an image blurred by Gaussian noise by learning to reverse the diffusion process."
+    ]
+}

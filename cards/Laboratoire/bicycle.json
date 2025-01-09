@@ -1,0 +1,24 @@
+{
+    "theme": "Bicyclette",
+    "theme_en": "Bicycle",
+    "questions": [
+        "Quel est le nombre de roues d'une bicyclette : 2 ou 3 ?",
+        "Quels sont les différents types de freins à disque utilisés pour les vélos ?",
+        "Combien de temps faut-il pour aller de St Charles à Luminy en vélo (+/- 10 mins) ?"
+    ],
+    "questions_en": [
+        "How many wheels does a bicycle have: 2 or 3 ?",
+        "What are the different disc brakes types used by bikes?",
+        "How much time does it take to go to Luminy from St Charles by bike? (+/- 10 mins)"
+    ],
+    "answers": [
+        "2",
+        "Mécaniques, hydrauliques et hybrydes.",
+        "50 mins."
+    ],
+    "answers_en": [
+        "2",
+        "Mechanical, hydraulic and hybrid.",
+        ""
+    ]
+}

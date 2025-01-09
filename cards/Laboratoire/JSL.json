@@ -1,0 +1,23 @@
+{
+    "theme": "JSL",
+    "questions": [
+        "Que signifie JSL : Journées Scientifiques du Laboratoire ou Japan Soccer League ?",
+        "Donnez le nom d'une personne étant intervenue ce matin.",
+        "Combien de doctorants sont présents aujourd'hui ?"
+    ],
+    "questions_en": [
+        "What does JSL mean: Laboratory Scientific Days or Japan Soccer League?",
+        "Give the name of one of the presenters of this morning.",
+        "How many people were registered for the bus this morning? (+/- 10)"
+    ],
+    "answers": [
+        "Journées Scientifiques du Laboratoire.",
+        "Variable",
+        "73"
+    ],
+    "answers_en": [
+        "(Laboratory Scientific Days)",
+        "",
+        ""
+    ]
+}

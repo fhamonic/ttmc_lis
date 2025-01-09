@@ -1,0 +1,24 @@
+{
+    "theme": "Pause café de Luminy",
+    "theme_en": "Luminy's coffee break",
+    "questions": [
+        "La pause café est-elle nécessaire à une bonne journée ?",
+        "Combien de cafés, en moyenne, sont servis quotidiennement par la nouvelle machine : 39, 54 ou 72 ?",
+        "Quand la nouvelle machine à café a-t-elle été installée ?"
+    ],
+    "questions_en": [
+        "Is a coffee break necessary for a good day?",
+        "How many coffees, on average, are served daily by the new machine: 39, 54 or 72?",
+        "When was the new coffee machine installed?"
+    ],
+    "answers": [
+        "Evidemment !",
+        "54",
+        "Le 14 avril 2022 (14/04/2022)."
+    ],
+    "answers_en": [
+        "Of course!",
+        "",
+        "April 14, 2022 (14/04/2022)."
+    ]
+}

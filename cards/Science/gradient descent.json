@@ -1,0 +1,24 @@
+{
+    "theme": "Descente de gradient",
+    "theme_en": "Gradient descent",
+    "questions": [
+        "Qu'est-ce qu'une déscente de gradient : une méthode d'optimization, une technique de peinture, une méthode de modélisation 3D ?",
+        "Quelle méthode, basée sur l'échantillonnage, est utilisée pour choisir un taux d'apprentissage optimal pour la descente de gradient ?",
+        "Quelle est la relation entre la descente de gradient et le taux d'apprentissage ?"
+    ],
+    "questions_en": [
+        "What is a gradient slope: an optimization method, a painting technique, a 3D modeling method?",
+        "What method, based on sampling, is used to choose an optimal learning rate for gradient descent?",
+        "What is the relationship between gradient descent and learning rate?"
+    ],
+    "answers": [
+        "Une méthode d'optimization.",
+        "La validation croisée.",
+        "Le taux d'apprentissage est le facteur multiplicatif appliqué au gradient."
+    ],
+    "answers_en": [
+        "An optimization method used in machine learning.",
+        "Cross-validation.",
+        "The learning rate is the multiplicative factor applied to the gradient."
+    ]
+}

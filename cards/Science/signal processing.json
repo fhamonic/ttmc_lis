@@ -1,0 +1,24 @@
+{
+    "theme": "Traitement des signaux",
+    "theme_en": "Signal processing",
+    "questions": [
+        "Qu'est-ce qu'un Filtre passe-bas : un circuit qui atténue les signaux dépassant un certain seuil ou un filtre qui s'arrête de filtrer si son entrée est trop encombrée ?",
+        "Qu'est-ce qu'un bruit blanc : un bruit produit par une source inconnue, un bruit qui contient toutes les fréquences à la même intensité ou un bruit qui contient une seule fréquence ?",
+        "Comment une variable indépendante d'une transformée de Fourier peut être interprété en physique ?"
+    ],
+    "questions_en": [
+        "What is a Low Pass Filter: a circuit that attenuates signals above a certain threshold or a filter that stops filtering if its input is too crowded?",
+        "What is white noise: noise produced by an unknown source, noise that contains all frequencies at the same intensity, or noise that contains a single frequency?",
+        "How can an independent variable of a Fourier transform be interpreted in physics?"
+    ],
+    "answers": [
+        "Un circuit qui atténue les signaux dépassant un certain seuil.",
+        "Un bruit qui contient toutes les fréquences à la même intensité.",
+        "Comme une fréquence ou une pulsation."
+    ],
+    "answers_en": [
+        "A circuit that attenuates signals above a certain threshold.",
+        "A noise that contains all frequencies at the same intensity.",
+        "Like a frequency or a pulse."
+    ]
+}

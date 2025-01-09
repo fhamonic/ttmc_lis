@@ -1,0 +1,23 @@
+{
+    "theme": "James Webb",
+    "questions": [
+        "Que signifie JWST : James Webb Space Telescope ou Johnson-Woods-Stokes Theorem ?",
+        "D'où le téléscope James Webb à-t-il été lancé ?",
+        "À quelle distance de la Terre se situe le James Webb téléscope ? (+/- 10^5 km)"
+    ],
+    "questions_en": [
+        "What does JWST stand for : James Webb Space Telescope or Johnson-Woods-Stokes Theorem?",
+        "Where was the James Webb Launched from?",
+        "How far is the James Webb Telescope from Earth? (+/- 10^5 km)"
+    ],
+    "answers": [
+        "James Webb Space Telescope.",
+        "Kourou, Guyanne française.",
+        "1.5 million de kilometres."
+    ],
+    "answers_en": [
+        "James Webb Space Telescope.",
+        "Kourou, French Guyana.",
+        "1.5 million kilometers."
+    ]
+}

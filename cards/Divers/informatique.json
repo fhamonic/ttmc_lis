@@ -1,0 +1,24 @@
+{
+    "theme": "Informatique",
+    "theme_en": "Computer science",
+    "questions": [
+        "Que signifie l'acronyme 'CPU' en informatique ?",
+        "Quel est le nom du premier algorithme permettant de résoudre les problèmes de flot maximum ?",
+        "Où et dans quel but la première webcam a-t-elle été créée ?"
+    ],
+    "questions_en": [
+        "What does the acronym 'CPU' stand for in computing?",
+        "What is the name of the first algorithm that finds the maximum flow in a flow network?",
+        "Where and for what purpose was the first webcam created?"
+    ],
+    "answers": [
+        "Central Processing Unit.",
+        "Ford-Fulkerson.",
+        "Trojan Room coffee pot. (Pour surveiller le niveau d'une cafetière)"
+    ],
+    "answers_en": [
+        "",
+        "",
+        "(To monitor the level of a coffee pot)"
+    ]
+}

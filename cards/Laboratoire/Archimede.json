@@ -1,0 +1,23 @@
+{
+    "theme": "Archimède",
+    "questions": [
+        "Qui était Archimède : un chanteur de métal ou un scientifique grecque ?",
+        "L'institut Archimède regroupe des chercheurs du LIS et de 3 autres laboratoires. Donnez le nom d'un de ces laboratoires.",
+        "Quand l'institut Archimède a-t-il été créé ?"
+    ],
+    "questions_en": [
+        "Who was Archimedes, metal singer or a Greek scientist?",
+        "The Archimède institute gathers researchers from the LIS and 3 other labs. Give the name of one of those labs.",
+        "When was the Archimède institute created ?"
+    ],
+    "answers": [
+        "Un scientifique grecque.",
+        "{I2M, Institut Fresnel, Centre de Physique Théorique}",
+        "Juillet 2019."
+    ],
+    "answers_en": [
+        "A Greek scientist.",
+        "",
+        "July 2019."
+    ]
+}

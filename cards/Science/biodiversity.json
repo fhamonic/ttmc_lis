@@ -1,0 +1,24 @@
+{
+  "theme": "Biodiversité",
+  "theme_en": "Biodiversity",
+  "questions": [
+    "Qu'est-ce que la Biodiversité : la variété des formes de vie sur la Terre ou le fait de manger des produits organiques variés ?",
+    "Les forêts tropicales couvrent moins de 10 % de la surface de la terre. Quel pourcentage des espèces mondiales contient-elle ?",
+    "Combien d'espèces ayant vécu sur terre sont estimées éteintes ? (+/- 1%)"
+  ],
+  "questions_en": [
+    "What is biodiversity : the variety and variability of life on Earth or the fact of eating organic and very varied products.",
+    "Tropical forests cover less than 10% of the earth's surface. What percentage of the world's species does it contain?",
+    "How many of the species that have lived on earth are estimated to be extinct? (+/- 1%)"
+  ],
+  "answers": [
+    "La variété des formes de vie sur la Terre.",
+    "À peu près 90%.",
+    "Plus de 99.9%. (plus de 5 miliard d'espèces)"
+  ],
+  "answers_en": [
+    "The variety and variability of life on Earth.",
+    "About 90%.",
+    "More than 99.9%. (over five billion species)"
+  ]
+}

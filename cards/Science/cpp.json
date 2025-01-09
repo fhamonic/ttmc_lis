@@ -1,0 +1,23 @@
+{
+    "theme": "C++",
+    "questions": [
+      "Combien y a-t-il de '+' dans C ++ ?",
+      "Combien de fois un même algorithme peut-il être plus rapide en C++ qu'en Python ? (donner une fourchette, +/- 10)",
+      "Quelle norme a introduit les ranges ?"
+    ],
+    "questions_en": [
+      "How many '+' are there in C ++?",
+      "How many times can the same algorithm be faster in C++ than in Python? (give a range, +/- 10)",
+      "Which standard introduced the ranges?"
+    ],
+    "answers": [
+      "2",
+      "10 à 100 fois.",
+      "C++ 20."
+    ],
+    "answers_en": [
+      "2",
+      "10 to 100 times.",
+      "C++ 20."
+    ]
+  }
