@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8">
   <title>TTMC en JSL : Choix du sujet</title>
-  <link rel="stylesheet" href="/css/style.css">
+  <link rel="stylesheet" href="{{base_uri}}/css/style.css">
 </head>
 
 <body>
@@ -12,7 +12,7 @@
   <h2><i>Choice of topic<i></h2>
 
   {{#categories}}
-  <form action="/pick-question/{{.}}" method="get">
+  <form action="{{base_uri}}/pick-question/{{.}}" method="get">
     <input type="submit" value="{{.}}">
   </form>
   {{/categories}}

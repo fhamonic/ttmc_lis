@@ -7,6 +7,8 @@ let fs = require('fs');
 
 let app = express();
 
+app.locals.base_uri = "/le_saint_graaphique"
+
 app.engine('html', mustache());
 app.set('view engine', 'html');
 app.set('views', './views');
